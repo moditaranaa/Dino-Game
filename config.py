@@ -1,0 +1,11 @@
+# config.py
+
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 400
+GROUND_Y = SCREEN_HEIGHT - 60
+
+FPS = 60
+
+# Colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
